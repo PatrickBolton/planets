@@ -1,3 +1,2 @@
-Hello
-Hello Hello
-hello
+Removes the hellos
+yo yo
